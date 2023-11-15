@@ -1,0 +1,7 @@
+﻿  game.c
+C:\code\2-_30_game_sanziqi\2-_30_game_sanziqi\game.c(5,6): warning C4101: “j”: 未引用的局部变量
+C:\code\2-_30_game_sanziqi\2-_30_game_sanziqi\game.c(27,6): warning C4101: “j”: 未引用的局部变量
+  main.c
+C:\code\2-_30_game_sanziqi\2-_30_game_sanziqi\main.c(8,14): warning C4552: ”+“: 未使用表达式结果
+  正在生成代码...
+  2-_30_game_sanziqi.vcxproj -> C:\code\2-_30_game_sanziqi\x64\Debug\2-_30_game_sanziqi.exe
