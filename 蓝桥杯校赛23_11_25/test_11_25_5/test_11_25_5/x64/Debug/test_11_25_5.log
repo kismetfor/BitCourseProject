@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\rain\source\repos\test_11_25_5\test_11_25_5\main.c(44,2): error C2143: 语法错误: 缺少“;”(在“return”的前面)
+C:\Users\rain\source\repos\test_11_25_5\test_11_25_5\main.c(42,7): warning C4047: “初始化”:“char”与“char [1]”的间接级别不同

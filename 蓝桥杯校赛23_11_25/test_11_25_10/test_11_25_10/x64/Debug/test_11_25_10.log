@@ -1,0 +1,14 @@
+﻿  main.c
+C:\Users\rain\source\repos\test_11_25_10\test_11_25_10\main.c(89,10): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  C:\Users\rain\source\repos\test_11_25_10\test_11_25_10\main.c(89,10):
+  请考虑在格式字符串中使用“%lld”
+  C:\Users\rain\source\repos\test_11_25_10\test_11_25_10\main.c(89,10):
+  请考虑在格式字符串中使用“%Id”
+  C:\Users\rain\source\repos\test_11_25_10\test_11_25_10\main.c(89,10):
+  请考虑在格式字符串中使用“%I64d”
+  
+C:\Users\rain\source\repos\test_11_25_10\test_11_25_10\main.c(49): warning C4715: “up”: 不是所有的控件路径都返回值
+C:\Users\rain\source\repos\test_11_25_10\test_11_25_10\main.c(59): warning C4715: “down”: 不是所有的控件路径都返回值
+C:\Users\rain\source\repos\test_11_25_10\test_11_25_10\main.c(69): warning C4715: “left”: 不是所有的控件路径都返回值
+C:\Users\rain\source\repos\test_11_25_10\test_11_25_10\main.c(79): warning C4715: “right”: 不是所有的控件路径都返回值
+  test_11_25_10.vcxproj -> C:\Users\rain\source\repos\test_11_25_10\x64\Debug\test_11_25_10.exe

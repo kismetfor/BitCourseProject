@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\rain\source\repos\test_11_25_02\test_11_25_02\main.c(8,6): warning C4101: “i”: 未引用的局部变量
+  test_11_25_02.vcxproj -> C:\Users\rain\source\repos\test_11_25_02\x64\Debug\test_11_25_02.exe
